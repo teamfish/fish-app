@@ -3,3 +3,8 @@
 .button-center {
     margin : 0 auto !important;
 }
+
+.no-line {
+    border-color : white !important;
+    background-color : white !important;
+}
