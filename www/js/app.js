@@ -34,6 +34,15 @@ angular.module('starter', ['ionic', 'starter.controllers'])
         }
     })
 
+    .state('app.camera', {
+        url: "/camera",
+        views: {
+            'menuContent' : {
+                templateUrl: "templates/camera.html"
+            }
+        }
+    })
+
     .state('app.search', {
       url: "/search",
       views: {
