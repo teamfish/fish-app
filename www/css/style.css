@@ -1,1 +1,5 @@
 /* Empty. Add your own CSS if you like */
+
+.button-center {
+    margin : 0 auto !important;
+}
